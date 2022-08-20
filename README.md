@@ -4,9 +4,9 @@
 
 👩‍🎓  Aspiring Software Engineer
 
-🔭  I’m currently working as a Data Science intern @Payoda Technologies Private Limited
-
 👩‍💻  Python Enthusiast
+
+🔭  I’m currently working as a Data Science intern @Payoda Technologies Private Limited
 
 🧠  I’m looking to collaborate on Discovering AI & Data Science
 
