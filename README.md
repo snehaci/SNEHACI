@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**snehaci/snehaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋  I am Sneha Ignatious!
 
 👩‍🎓  Aspiring Software Engineer
@@ -18,5 +13,3 @@ Here are some ideas to get you started:
 💻  Love to design Web applications
 
 📫  How to reach me: snehaignatious7@gmail.com
--->
-
