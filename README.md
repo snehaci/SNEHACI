@@ -2,12 +2,12 @@
 
 👋  I am Sneha Ignatious!
 
-👩‍🎓  Aspiring Software Engineer
+👩‍🎓  Working in Cloud Operations
 
 👩‍💻  Python Enthusiast
 
-🧠  I’m looking to collaborate on fullstack development and on discovering AI & Data Science
-
-💻  Love to design Web applications
+💻  Exploring AI, ML, DL & Data Science
+ 
+🧠  I’m looking to collaborate on fullstack development
 
 📫  How to reach me: snehaignatious7@gmail.com
