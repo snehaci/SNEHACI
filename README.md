@@ -2,7 +2,7 @@
 
 👋  I am Sneha C I!
 
-👩‍💻  Working in Automation Scrpts in Cloud Operations
+👩‍💻  Working in Automation Scripts in Cloud Operations
 
 👩‍🎓 Python Enthusiast
 
