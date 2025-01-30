@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋  I am Sneha Ignatious!
+👋  I am Sneha C I!
 
 👩‍💻  Working in Automation Scrpts in Cloud Operations
 
